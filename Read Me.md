@@ -1,6 +1,3 @@
-Got it 🚀 A **cool-looking README** makes your repo stand out. I’ll design one with clean sections, badges, and a modern style for your project.
-
-Here’s a **ready-to-use README.md**:
 
 ```markdown
 # 🤖 Real-Time Gesture Recognition & Object Detection on Raspberry Pi  
@@ -134,3 +131,4 @@ This project is licensed under the **MIT License**.
 
 Do you want me to make this **minimal clean style** (professional, simple) or keep it **flashy with emojis and badges** (cool GitHub vibe)?
 ```
+
